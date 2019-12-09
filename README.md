@@ -1,4 +1,4 @@
-## SI507 Final Project Proposal
+## SI507 Final Project
 
 
 #### Description:
