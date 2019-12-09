@@ -17,7 +17,6 @@ It should:
 #### Data Sources: 
 
 1) Deezer API. Deezer API provides a lot of endpoints with different object models including artists, album, track, etc. which we can individually query and store. 
-
 For basic information about the API please visit: https://developers.deezer.com/api for basic documentation
 
 2) IMVDb API. In addition, the application would also search for the url of the corresponding music video through IMVDb API. 
