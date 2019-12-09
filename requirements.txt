@@ -1,0 +1,11 @@
+sqlite3
+requests
+json
+requests_oauthlib
+plotly
+plotly.graph_objs as go
+webbrowser
+nltk 
+nltk.corpus
+re
+collections

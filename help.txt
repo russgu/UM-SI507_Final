@@ -1,0 +1,37 @@
+
+Commands available:
+
+exit
+ 	Description: Exit the program.
+
+graph_followers
+	Description: Graph bar chart for the follower# of the most popular artists.
+	parameter:
+	  * num=<number of artists> - number of artists to display. Maximum 78.
+
+graph_albums
+	Description: Graph bar chart for the #albums of the most prolific artists.
+	parameter:
+	  * num=<number of artists> - number of artists to display. Maximum 78.
+
+
+graph_tracks
+	Description: Graph bar chart for the #likes of the most popular tracks. 
+	parameter:
+	  * num=<number of tracks> - number of tracks to display. Maximum 100.
+
+
+graph_genre
+	Description: Graph bar chart for the #albums by genre. 
+
+
+video
+	Description: Show a list of music videos for the user to select. User is prompted 	to enter an id to select a music from the list and see the music video.
+	parameter:
+	  *num=<number of tracks> - number of tracks to show in the list. Maximum 100.
+
+twitter
+	Description: Show a list of artists for the user to select. User is prompted to 	enter an id to select an artist from the list and show some words in the 		artist's tweets.
+	parameter:
+	  *num=<number of tweets> - number of artists to show. Maximum 78.
+
