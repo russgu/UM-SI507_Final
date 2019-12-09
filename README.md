@@ -33,10 +33,10 @@ Using plotly to show Bar charts with popularity of tracks, # of followers of art
 
 #### Files:
 
-Run the Final_Project.py on command line for interactive search. To run unit test file, run Final_Project_test.py.
-Json files are cached files generated from api calls so that the same request wouldn't need to go through the api twice.
-requirement.txt has all the needed libraries to run the program
-final.db is the sqlite database file that contains all the data requested.
+- Run the Final_Project.py on command line for interactive search. To run unit test file, run Final_Project_test.py.
+- Json files are cached files generated from api calls so that the same request wouldn't need to go through the api twice.
+- requirement.txt has all the needed libraries to run the program
+- final.db is the sqlite database file that contains all the data requested.
 
 #### Code Structure:
 
